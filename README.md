@@ -12,11 +12,11 @@ In this repository, we will assume that you are an experienced data scientist wh
 Your will be provided with datasets from all these departments and you will be asked to achieve the following tasks:
 
 
-**Task #1 @Human Resources Department:** 
+**Task #1 @Human Resources Department:** <br />
 **Develop an AI model to Reduce hiring and training costs of employees by predicting which employees might leave the company.**
 
-**Task #2 @Marketing Department:**
+**Task #2 @Marketing Department:**<br />
 **Optimize marketing strategy by performing customer segmentation.**
 
-**Task #3 @Sales Department:** 
+**Task #3 @Sales Department:** <br />
 **Develop time series forecasting models to predict future product prices.**
