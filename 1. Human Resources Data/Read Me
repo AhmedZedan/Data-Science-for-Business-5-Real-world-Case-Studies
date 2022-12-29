@@ -1,1 +1,3 @@
 Predict which employees might leave the company
+
+In the improvement notebook i applied feature scaling after splitting the data not before.
