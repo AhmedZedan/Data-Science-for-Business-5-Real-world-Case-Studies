@@ -23,5 +23,5 @@ Your will be provided with datasets from all these departments and you will be a
 **#4 @Operations Department:** <br />
 **Develop Deep Learning model to automate and optimize the disease detection processes at a hospital.**
 
-**#5 @Public Relations Department: ** <br />
+**#5 @Public Relations Department:** <br />
 **Develop Natural Language Processing Models to analyze customer reviews on social media and identify customers sentiment.**
